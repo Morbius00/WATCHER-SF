@@ -1,0 +1,1 @@
+function input(){const e=document.getElementById("userinput").value;if(e!==sessionStorage.getItem("NAME"))return sessionStorage.setItem("NAME",e),void window.open("form.html","_self");window.open("warning.html","_self")}
