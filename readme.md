@@ -44,4 +44,4 @@ Education
 * Implementing Zoom SDK to secure not only the exams but the process of learning as well.
 * Adding multi-language support and a secure admin panel to eliminate any hassle.
 
-# <img src="https://media0.giphy.com/media/MLyUJaZN3zlNWtSwDt/giphy.gif" width="53"/> CHECK OUT WATCHER 🦅 - https://watchersf.netlify.app
+# <img src="https://media0.giphy.com/media/MLyUJaZN3zlNWtSwDt/giphy.gif" width="53"/> CHECK OUT WATCHER 🦅 - https://watchersfh.netlify.app
